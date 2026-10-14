@@ -1,0 +1,11 @@
+,Cath,LAD,LCX,RCA
+sampler,passthrough,passthrough,passthrough,passthrough
+fs__k,28,10,all,35
+clf__algorithm,auto,auto,auto,auto
+clf__leaf_size,30,30,55,45
+clf__metric,minkowski,minkowski,cosine,manhattan
+clf__metric_params,None,None,None,None
+clf__n_jobs,None,None,None,None
+clf__n_neighbors,27,11,54,49
+clf__p,1,1,2,2
+clf__weights,distance,uniform,uniform,uniform

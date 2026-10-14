@@ -1,0 +1,9 @@
+target,model,roc_auc,average_precision,balanced_accuracy,f1,recall
+Cath,Dummy,0.5,0.715,0.5,0.834,1.0
+Cath,default knn,0.842,0.908,0.68,0.857,0.913
+LAD,Dummy,0.5,0.583,0.5,0.736,1.0
+LAD,default knn,0.759,0.785,0.693,0.75,0.77
+LCX,Dummy,0.5,0.388,0.5,0.0,0.0
+LCX,default knn,0.639,0.496,0.57,0.427,0.373
+RCA,Dummy,0.5,0.376,0.5,0.0,0.0
+RCA,default knn,0.604,0.467,0.573,0.423,0.374

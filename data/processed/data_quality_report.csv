@@ -1,0 +1,60 @@
+,dtype,n_unique,n_missing,sample_values,paper_range_ok
+Age,int64,46,0,"[np.int64(53), np.int64(67), np.int64(54), np.int64(66), np.int64(50), np.int64(55)]",True
+Weight,int64,54,0,"[np.int64(90), np.int64(70), np.int64(54), np.int64(67), np.int64(87), np.int64(75)]",True
+Length,int64,44,0,"[np.int64(175), np.int64(157), np.int64(164), np.int64(158), np.int64(153), np.int64(165)]",
+Sex,object,2,0,"['Male', 'Fmale']",
+BMI,float64,263,0,"[np.float64(29.387755102040817), np.float64(28.398718000730252), np.float64(20.077334919690664), np.float64(26.83864765261977), np.float64(37.165192874535435), np.float64(24.489795918367346)]",True
+DM,int64,2,0,"[np.int64(0), np.int64(1)]",
+HTN,int64,2,0,"[np.int64(1), np.int64(0)]",
+Current Smoker,int64,2,0,"[np.int64(1), np.int64(0)]",
+EX-Smoker,int64,2,0,"[np.int64(0), np.int64(1)]",
+FH,int64,2,0,"[np.int64(0), np.int64(1)]",
+Obesity,object,2,0,"['Y', 'N']",
+CRF,object,2,0,"['N', 'Y']",
+CVA,object,2,0,"['N', 'Y']",
+Airway disease,object,2,0,"['N', 'Y']",
+Thyroid Disease,object,2,0,"['N', 'Y']",
+CHF,object,2,0,"['N', 'Y']",
+DLP,object,2,0,"['Y', 'N']",
+BP,int64,17,0,"[np.int64(110), np.int64(140), np.int64(100), np.int64(118), np.int64(130), np.int64(90)]",True
+PR,int64,21,0,"[np.int64(80), np.int64(100), np.int64(70), np.int64(50), np.int64(84), np.int64(74)]",True
+Edema,int64,2,0,"[np.int64(0), np.int64(1)]",
+Weak Peripheral Pulse,object,2,0,"['N', 'Y']",
+Lung rales,object,2,0,"['N', 'Y']",
+Systolic Murmur,object,2,0,"['N', 'Y']",
+Diastolic Murmur,object,2,0,"['N', 'Y']",
+Typical Chest Pain,int64,2,0,"[np.int64(0), np.int64(1)]",
+Dyspnea,object,2,0,"['N', 'Y']",
+Function Class,int64,4,0,"[np.int64(0), np.int64(3), np.int64(2), np.int64(1)]",
+Atypical,object,2,0,"['N', 'Y']",
+Nonanginal,object,2,0,"['N', 'Y']",
+Exertional CP,object,1,0,['N'],
+LowTH Ang,object,2,0,"['N', 'Y']",
+Q Wave,int64,2,0,"[np.int64(0), np.int64(1)]",
+St Elevation,int64,2,0,"[np.int64(0), np.int64(1)]",
+St Depression,int64,2,0,"[np.int64(1), np.int64(0)]",
+Tinversion,int64,2,0,"[np.int64(1), np.int64(0)]",
+LVH,object,2,0,"['N', 'Y']",
+Poor R Progression,object,2,0,"['N', 'Y']",
+BBB,object,3,0,"['N', 'LBBB', 'RBBB']",
+FBS,int64,113,0,"[np.int64(90), np.int64(80), np.int64(85), np.int64(78), np.int64(104), np.int64(86)]",True
+CR,float64,18,0,"[np.float64(0.7), np.float64(1.0), np.float64(1.2), np.float64(0.8), np.float64(0.9), np.float64(0.6)]",True
+TG,int64,147,0,"[np.int64(250), np.int64(309), np.int64(103), np.int64(63), np.int64(170), np.int64(139)]",True
+LDL,int64,110,0,"[np.int64(155), np.int64(121), np.int64(70), np.int64(55), np.int64(110), np.int64(119)]",True
+HDL,float64,47,0,"[np.float64(30.0), np.float64(36.0), np.float64(45.0), np.float64(27.0), np.float64(50.0), np.float64(34.0)]",True
+BUN,int64,33,0,"[np.int64(8), np.int64(30), np.int64(17), np.int64(16), np.int64(13), np.int64(12)]",True
+ESR,int64,58,0,"[np.int64(7), np.int64(26), np.int64(10), np.int64(76), np.int64(27), np.int64(18)]",True
+HB,float64,66,0,"[np.float64(15.6), np.float64(13.9), np.float64(13.5), np.float64(12.1), np.float64(13.2), np.float64(14.1)]",True
+K,float64,27,0,"[np.float64(4.7), np.float64(4.4), np.float64(4.0), np.float64(4.2), np.float64(4.8), np.float64(4.3)]",True
+Na,int64,25,0,"[np.int64(141), np.int64(156), np.int64(139), np.int64(142), np.int64(140), np.int64(128)]",True
+WBC,int64,78,0,"[np.int64(5700), np.int64(7700), np.int64(7400), np.int64(13000), np.int64(9200), np.int64(7300)]",True
+Lymph,int64,50,0,"[np.int64(39), np.int64(38), np.int64(18), np.int64(55), np.int64(26), np.int64(58)]",True
+Neut,int64,52,0,"[np.int64(52), np.int64(55), np.int64(60), np.int64(72), np.int64(39), np.int64(66)]",True
+PLT,int64,135,0,"[np.int64(261), np.int64(165), np.int64(230), np.int64(742), np.int64(274), np.int64(194)]",True
+EF-TTE,int64,11,0,"[np.int64(50), np.int64(40), np.int64(55), np.int64(45), np.int64(25), np.int64(30)]",True
+Region RWMA,int64,5,0,"[np.int64(0), np.int64(4), np.int64(2), np.int64(3), np.int64(1)]",True
+VHD,object,4,0,"['N', 'mild', 'Severe', 'Moderate']",
+LAD,object,2,0,"['Stenotic', 'Normal']",
+LCX,object,2,0,"['Normal', 'Stenotic']",
+RCA,object,2,0,"['Stenotic', 'Normal']",
+Cath,object,2,0,"['CAD', 'Normal']",
