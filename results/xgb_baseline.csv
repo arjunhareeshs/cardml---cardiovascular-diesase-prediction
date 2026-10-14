@@ -1,0 +1,9 @@
+target,model,roc_auc,average_precision,balanced_accuracy,f1,recall
+Cath,Dummy,0.5,0.715,0.5,0.834,1.0
+Cath,default xgb,0.933,0.973,0.815,0.91,0.936
+LAD,Dummy,0.5,0.583,0.5,0.736,1.0
+LAD,default xgb,0.847,0.874,0.785,0.833,0.866
+LCX,Dummy,0.5,0.388,0.5,0.0,0.0
+LCX,default xgb,0.691,0.56,0.608,0.487,0.442
+RCA,Dummy,0.5,0.376,0.5,0.0,0.0
+RCA,default xgb,0.729,0.602,0.645,0.529,0.467

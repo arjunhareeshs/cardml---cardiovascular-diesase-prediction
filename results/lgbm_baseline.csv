@@ -1,0 +1,9 @@
+target,model,roc_auc,average_precision,balanced_accuracy,f1,recall
+Cath,Dummy,0.5,0.715,0.5,0.834,1.0
+Cath,default lgbm,0.932,0.972,0.82,0.913,0.939
+LAD,Dummy,0.5,0.583,0.5,0.736,1.0
+LAD,default lgbm,0.841,0.868,0.776,0.827,0.862
+LCX,Dummy,0.5,0.388,0.5,0.0,0.0
+LCX,default lgbm,0.702,0.568,0.618,0.494,0.442
+RCA,Dummy,0.5,0.376,0.5,0.0,0.0
+RCA,default lgbm,0.715,0.584,0.622,0.496,0.434
